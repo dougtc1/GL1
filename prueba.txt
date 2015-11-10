@@ -1,3 +1,6 @@
 primera modificacion de este nueva prueba
 esta es la segunda modificacion a prueba.txt
 esta es la tercera modificacion a prueba.txt
+esta modificacion es para ver el staging
+esta modificacion es para ver que pasa cuando modificas dos veces algo
+algo modificado
